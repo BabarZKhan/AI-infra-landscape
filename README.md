@@ -16,20 +16,28 @@ A landscape of companies in the AI infrastructure space.
 | Cerebras Systems | [cerebras.ai](https://www.cerebras.ai) |
 | d-Matrix | [d-matrix.ai](https://www.d-matrix.ai) |
 | EnCharge AI | [enchargeai.com](https://www.enchargeai.com) |
+| Etched | [etched.com](https://www.etched.com) |
+| EUCLYD | [euclyd.ai](https://euclyd.ai) |
+| Fractile | [fractile.ai](https://www.fractile.ai) |
 | FuriosaAI | [furiosa.ai](https://furiosa.ai) |
 | Graphcore | [graphcore.ai](https://www.graphcore.ai) |
+| HyperAccel | [hyperaccel.ai](https://www.hyperaccel.ai) |
 | Intel | [intel.com](https://www.intel.com) |
 | KALRAY | [kalrayinc.com](https://www.kalrayinc.com) |
+| MatX | [matx.com](https://matx.com) |
+| MetaX (沐曦集成电路) | [metax-tech.com](https://www.metax-tech.com) |
 | Mobilint | [mobilint.com](https://www.mobilint.com) |
 | NeuReality | [neureality.ai](https://www.neureality.ai) |
 | NVIDIA | [nvidia.com](https://www.nvidia.com) |
 | Openchip | [openchip.com](https://openchip.com) |
+| Positron AI | [positron.ai](https://www.positron.ai) |
 | Qualcomm | [qualcomm.com](https://www.qualcomm.com) |
 | Rebellions | [rebellions.ai](https://rebellions.ai) |
 | Rivos | [rivosinc.com](https://www.rivosinc.com) |
 | SambaNova | [sambanova.ai](https://sambanova.ai) |
 | SiMa.ai | [sima.ai](https://sima.ai) |
 | Syntiant | [syntiant.com](https://www.syntiant.com) |
+| Tensordyne | [tensordyne.ai](https://www.tensordyne.ai) |
 | Tenstorrent | [tenstorrent.com](https://tenstorrent.com) |
 | TetraMem | [tetramem.com](https://www.tetramem.com) |
 
@@ -38,12 +46,14 @@ A landscape of companies in the AI infrastructure space.
 | Company | Website |
 |---|---|
 | Ayar Labs | [ayarlabs.com](https://ayarlabs.com) |
-| Celestial AI | [celestial.ai](https://www.celestial.ai) |
+| Celestial AI (Marvell) | [celestial.ai](https://www.celestial.ai) |
 | IC Photonics | [icphotonics.com](https://icphotonics.com) |
 | iPRONICS | [ipronics.com](https://ipronics.com) |
 | Lightelligence | [lightelligence.ai](https://www.lightelligence.ai) |
 | Lightmatter | [lightmatter.co](https://lightmatter.co) |
+| Mixx Technologies | — |
 | Newphotonics | [newphotonics.com](https://newphotonics.com) |
+| Volantis | — |
 | Xscape Photonics | [xscapephotonics.com](https://xscapephotonics.com) |
 
 ### 🔌 Connectivity, Interconnect & Networking Silicon
@@ -54,6 +64,7 @@ A landscape of companies in the AI infrastructure space.
 | Astera Labs | [asteralabs.com](https://www.asteralabs.com) |
 | Broadcom | [broadcom.com](https://www.broadcom.com) |
 | Enfabrica | [enfabrica.net](https://enfabrica.net) |
+| MangoBoost | [mangoboost.io](https://www.mangoboost.io) |
 | Marvell | [marvell.com](https://www.marvell.com) |
 | MaxLinear | [maxlinear.com](https://www.maxlinear.com) |
 | XConn Technologies | [xconn-tech.com](https://xconn-tech.com) |
@@ -109,6 +120,7 @@ A landscape of companies in the AI infrastructure space.
 | Semidynamics | [semidynamics.com](https://semidynamics.com) |
 | SiFive | [sifive.com](https://www.sifive.com) |
 | SkyeChip | [skyechip.com](https://www.skyechip.com) |
+| TYLsemi | [tylsemi.ai](https://www.tylsemi.ai) |
 | Verisilicon | [verisilicon.com](https://www.verisilicon.com) |
 
 ### ⚡ FPGA & Reconfigurable Compute
@@ -150,5 +162,3 @@ A landscape of companies in the AI infrastructure space.
 | NOX Technology | [noxtechnology.com](http://www.noxtechnology.com) |
 | proteanTecs | [proteantecs.com](https://www.proteantecs.com) |
 | Yamaichi Electronics | [yamaichi.co.jp](https://www.yamaichi.co.jp) |
-
-
